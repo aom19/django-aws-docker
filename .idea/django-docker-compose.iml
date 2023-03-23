@@ -11,4 +11,19 @@
     <option name="format" value="PLAIN" />
     <option name="myDocStringFormat" value="Plain" />
   </component>
+  <component name="TemplatesService">
+    <option name="templateFileTypes">
+      <list>
+        <option value="DockerIgnore file" />
+        <option value="GitIgnore file" />
+        <option value="Dockerfile" />
+        <option value="HTML" />
+        <option value="Markdown" />
+        <option value="Shell Script" />
+        <option value="XHTML" />
+        <option value="XML" />
+        <option value="YAML" />
+      </list>
+    </option>
+  </component>
 </module>
